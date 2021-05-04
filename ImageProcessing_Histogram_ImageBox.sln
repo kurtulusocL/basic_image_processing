@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessing_Histogram_ImageBox", "ImageProcessing_Histogram_ImageBox.csproj", "{03B61AD9-D0EE-403D-8EB1-0A685D1B4E28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03B61AD9-D0EE-403D-8EB1-0A685D1B4E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03B61AD9-D0EE-403D-8EB1-0A685D1B4E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03B61AD9-D0EE-403D-8EB1-0A685D1B4E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03B61AD9-D0EE-403D-8EB1-0A685D1B4E28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C36EEA7-C9B0-466E-88A5-C807381C4D7D}
+	EndGlobalSection
+EndGlobal
